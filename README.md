@@ -20,10 +20,6 @@
 ![img4](assets/img/resume.png)
 <br>
 
-- Project
-  
-![img5](assets/img/project.png)
-<br>
 
 
 
